@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/OpenGLEngineTest.dir/src/Graphics/Application.cpp.o CMakeFiles/OpenGLEngineTest.dir/src/Graphics/Renderer.cpp.o CMakeFiles/OpenGLEngineTest.dir/src/Graphics/Window.cpp.o CMakeFiles/OpenGLEngineTest.dir/src/Test.cpp.o CMakeFiles/OpenGLEngineTest.dir/src/Vendor/glad/glad.c.o  -o OpenGLEngineTest  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl 
